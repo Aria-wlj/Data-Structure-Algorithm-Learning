@@ -37,8 +37,3 @@ Array -> Stack
 
 
 --------------------------------------------------------------------------------------------------
-# Java vs. Python
-### Hash Table
-- Set<ListNode> seen = new HashSet<ListNode>();
-- seen = set()
-  - element in set()
