@@ -7,6 +7,7 @@ Array -> Stack
 `155. Min Stack`  
 #### use
 `20. Valid Parentheses`  
+`933. Number of Recent Calls`  
 #### Stack & Queue
 `232. Implement Queue using Stacks`  
 `225. Implement Stack using Queues`  
